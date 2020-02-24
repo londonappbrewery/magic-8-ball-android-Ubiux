@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main_v2);
         Button ballButton = findViewById(R.id.btn_ball);
         final ImageView ballPicture = findViewById(R.id.img_ball);
         final int[] images = {R.drawable.ball1,
