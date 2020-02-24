@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="logo1">Magical</string>
+    <string name="logo2">8Ball</string>
 </resources>
